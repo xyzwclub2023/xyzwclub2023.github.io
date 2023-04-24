@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2023/04/24/hello-world/"/>
-      <url>/2023/04/24/hello-world/</url>
+      <title>俱乐部模板</title>
+      <link href="/2023/04/25/ju-le-bu-mo-ban/"/>
+      <url>/2023/04/25/ju-le-bu-mo-ban/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="俱乐部名字"><a href="#俱乐部名字" class="headerlink" title="俱乐部名字"></a><center>俱乐部名字</center></h1><h2 id="基础信息"><a href="#基础信息" class="headerlink" title="基础信息"></a>基础信息</h2><p><strong>区服</strong>：24xx</p><p><strong>宣言</strong>：你好我也好</p><p><strong>评分</strong>：100</p><h2 id="前世今生"><a href="#前世今生" class="headerlink" title="前世今生"></a>前世今生</h2><p>原名xxx，xxxxxx</p><h2 id="名人堂"><a href="#名人堂" class="headerlink" title="名人堂"></a>名人堂</h2><p>xxxx</p><p>xxx</p><p>xxx</p><h2 id="事迹"><a href="#事迹" class="headerlink" title="事迹"></a>事迹</h2><h3 id="罐子"><a href="#罐子" class="headerlink" title="罐子"></a>罐子</h3><table><thead><tr><th>时间</th><th>人员</th><th>事件</th><th>结果</th></tr></thead><tbody><tr><td>2023-04-25</td><td>xxxx</td><td>抢罐子</td><td>-1</td></tr><tr><td>2023-04-25</td><td>xxxx</td><td>抢1个罐子赔偿2个罐子</td><td>+1</td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table><h3 id="盐场"><a href="#盐场" class="headerlink" title="盐场"></a>盐场</h3><table><thead><tr><th>时间</th><th>人员</th><th>事件</th><th>结果</th></tr></thead><tbody><tr><td>2023-04-25</td><td>xxxx</td><td>帮盟友售价</td><td>+5</td></tr><tr><td>2023-04-25</td><td>xxxx</td><td>推掉盟友大本营</td><td>-10</td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table><h2 id="留言"><a href="#留言" class="headerlink" title="留言"></a>留言</h2><p>欢迎氪佬加入</p>]]></content>
       
       
+      <categories>
+          
+          <category> 俱乐部 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 俱乐部模板 </tag>
+            
+        </tags>
       
     </entry>
     
